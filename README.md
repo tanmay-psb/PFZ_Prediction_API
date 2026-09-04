@@ -2,7 +2,7 @@
 
 A machine learning prototype that predicts and ranks the **Top 10 fishing grounds** based on expected fishing productivity using historical fisheries data and environmental conditions.
 
-> **Project Status:** Prototype / Smart India Hackathon (SIH)  
+> **Project Status:** Prototype  
 > **Current Scope:** Tropical Tuna + Billfish fisheries represented in the selected IOTC datasets  
 > **Primary Output:** Ranked Top 10 fishing grounds with predicted productivity scores
 
