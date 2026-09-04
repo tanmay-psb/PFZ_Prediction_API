@@ -1,4 +1,4 @@
-# Fishing Ground Productivity Predictor
+# PFZ Prediction API
 
 A machine learning prototype that predicts and ranks the **Top 10 fishing grounds** based on expected fishing productivity using historical fisheries data and environmental conditions.
 
